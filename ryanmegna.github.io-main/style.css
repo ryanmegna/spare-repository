@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(228, 243, 255);
+  background-image: url(myBackground.jpg);
+  background-size: cover;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  margin-left: 11px;
+  font-size: 21px;
+}
+
+p {
+  color:rgb(0, 0, 0);
+  margin-left: 11px;
+  font-size: 17px;
+}
